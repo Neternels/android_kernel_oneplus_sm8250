@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "NetErnels Kernel",
+    "version": "NetErnels-1.0",
+    "link": "https://github.com/neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.0/NetErnels-unified_op8-4.19.202-signed.zip",
+    "changelog_url": "https://raw.githubusercontent.com/neternels/android_kernel_oneplus_sm8250/R/ota/changelog",
+    "date": "2021-08-23",
+    "sha1": "7447937b22e11b423ff040e6c9bc58266acfaaee"
+  },
+  "support": {
+    "link": "https://t.me/neternels_chat"
+  }
+}

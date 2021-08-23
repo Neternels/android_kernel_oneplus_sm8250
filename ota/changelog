@@ -1,0 +1,30 @@
+## Build Information
+```
+Kernel: NetErnels Kernel
+Type: Stable
+Device: OnePlus 8/Pro
+Compiler: Proton Clang 13.0.0
+Branch: master
+Build Number: 1.0
+```
+## Changelog
+```
+-NetErnels-1.0
+* Initial build
+* Enabled sysvipc for postgresql support
+* Patched drivers for wifi injection support
+* Enabled wlan0 monitor mode
+* Enabled AR9721, RT3070, MT7601U and many more drivers.
+* Enabled SDR support for radio-based attacks
+* Enabled HCI support for both HCI0 and external bluetooth adapters
+* Enabled ethernet drivers support for nethunter
+* Enabled HID support for nethunter
+* Enabled USB support for nethunter
+* Built rtl8188eu as a module
+* Built rtl8712u as a module
+* Built rts5208 as a module
+* Built rtl8822be as a module
+* Built rtl8192e as a module
+* Built usb gspca as a module
+* Built with proton-clang 13.0.0
+```
