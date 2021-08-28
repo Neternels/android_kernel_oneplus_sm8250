@@ -5,10 +5,15 @@ Type: Stable
 Device: OnePlus 8/Pro
 Compiler: Proton Clang 13.0.0
 Branch: master
-Build Number: 1.0
+Build Number: 1.1-hotfix
 ```
 ## Changelog
 ```
+-NetErnels-1.1-hotfix
+* Nuked binderfs for vhci
+* Nuked android_paranoid_network for psql
+* Enabled HCIUART_H4 & HCIVHCI
+* Enabled POSIX_MQUEUE
 -NetErnels-1.0
 * Initial build
 * Enabled sysvipc for postgresql support
